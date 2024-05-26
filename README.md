@@ -66,6 +66,12 @@ This project showcases an innovative water rover designed to address the challen
 - **Collect Debris**: The escalator mechanism will collect debris, and the net mechanism will store it.
 - **View Live Stream**: Access the live video feed from the Raspberry Pi camera through the provided HTTP link.
 
+##Contributors
+Bodhini D B(https://github.com/Logiclace) - Project Lead, NodeMCU Programming, Hardware Integration
+Bhavana C(https://github.com/Bhavana-Chandra) - Raspberry Pi Setup, Live Streaming Implementation
+Sanjana R(https://github.com/Sanjanarames) - Mechanical Design, Debris Collection Mechanism
+Sakshi Nagraj T N(https://github.com/SakshiNagaraj33) - Blynk IoT Integration, Testing and Debugging
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
